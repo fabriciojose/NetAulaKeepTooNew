@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Aula_KeepToo_Test.jnlp">
+    <information>
+        <title>Aula_KeepToo_Test</title>
+        <vendor>fabmu</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="9.0.1+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="Aula_KeepToo_Test.jar" size="2680" download="eager"/>
+        <jar href="lib\jfoenix-9.0.0.jar" size="2139336" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="aula_keeptoo_test.Aula_KeepToo_Test" name="Aula_KeepToo_Test"/>
+</jnlp>
+
